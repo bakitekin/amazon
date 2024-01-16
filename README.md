@@ -1,4 +1,3 @@
 # Amazon-
 
-! [] (amazon.gif)
-# amazon
+! [] amazon.gif
