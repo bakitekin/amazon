@@ -1,3 +1,3 @@
 # Amazon-
 
-! [] amazon.gif
+<img src="amazon.gif">
